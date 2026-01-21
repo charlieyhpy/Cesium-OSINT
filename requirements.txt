@@ -1,0 +1,4 @@
+exifread
+requests
+beautifulsoup4
+scapy
